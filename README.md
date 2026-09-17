@@ -21,7 +21,7 @@ Add this skill directly to your coding assistant by pasting the **Magic Prompt**
 
 ```markdown
 @agent Install the "kirby-fitzpatrick-locomotive-syntax" skill:
-1. Ensure ~/.gemini/config/skills, ~/.cursor/skills, ~/.codeium/windsurf/skills, ~/.grok/skills, ~/.kimi-code/skills, and ~/.reasonix/skills exist.
+1. Ensure ~/.gemini/config/skills, ~/.cursor/skills, ~/.cursor/skills-cursor, ~/.codeium/windsurf/skills, ~/.grok/skills, ~/.kimi-code/skills, and ~/.reasonix/skills exist.
 2. Clone https://github.com/markkirby125/kirby-fitzpatrick-locomotive-syntax.git to ~/.agents/skills/kirby-fitzpatrick-locomotive-syntax.
 3. Symlink ~/.agents/skills/kirby-fitzpatrick-locomotive-syntax to all local AI app skill directories.
 ```
