@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-locomotive-syntax
-description: "Front-load sentence subjects and verbs to eliminate pre-modifier bloat." Use this when working on fitzpatrick locomotive syntax.
+description: "Front-load sentence subjects and verbs to eliminate pre-modifier bloat. Use this when working on fitzpatrick locomotive syntax."
 category: "Writing & Communication"
 triggers:
   - "locomotive syntax"
